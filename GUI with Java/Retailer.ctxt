@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Retailer
+comment1.params=store_id\ store_name\ location\ opening_hour\ total_sales\ total_discount\ VAT_inclusive_price\ isPaymentOnline\ purchased_Year
+comment1.target=Retailer(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ double,\ int,\ boolean,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getVat_inclusive_price()
+comment3.params=
+comment3.target=int\ getLoyalty_point()
+comment4.params=
+comment4.target=boolean\ getIsPaymentOnline()
+comment5.params=
+comment5.target=java.lang.String\ getPurchased_Year()
+comment6.params=isPaymentOnline
+comment6.target=void\ setIsPaymentOnline(boolean)
+comment7.params=isPaymentOnline\ VAT_inclusive_price
+comment7.target=void\ loyalty(boolean,\ int)
+comment8.params=
+comment8.target=void\ remove_product()
+comment9.params=
+comment9.target=void\ display()
+numComments=10
